@@ -25,10 +25,9 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Farhan-07-00 &limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Farhan-07-00&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Farhan-07-00 &icon=0&color=0)](https://visitcount.itsvg.in)
-
+## 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=Farhan-07-00&color=blue&style=flat)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
