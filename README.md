@@ -1,52 +1,58 @@
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Farhan%20Akthar&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Machine%20Learning&descAlignY=60"/>
+
 # 👋 Hi, I'm Farhan Akthar
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Farhan%20Akthar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Machine%20Learning&descAlignY=60"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Web+Applications;Always+Learning+Something+New+🚀"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Web+Applications;Always+Learning+🚀"/>
-</p>
+**Building AI-powered solutions with Python, MERN Stack, and Machine Learning**
+
+<img src="https://komarev.com/ghpvc/?username=Farhan-07-00&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
 
 ## 💫 About Me
 
-- 🎓 B.Tech CSE Student
-- 🤖 Passionate about AI, Machine Learning and Full Stack Development
-- 🚀 Building Resume Analyzer, AI Background Remover, Weather Dashboard and Text Analyzer
-- 🌱 Currently learning Docker, Cloud Computing, Deep Learning and LLMs
-- 💬 Ask me about Python, React, JavaScript, MERN and AI
+- 🎓 B.Tech Computer Science Student
+- 🤖 Passionate about AI, Machine Learning, and Full Stack Development
+- 🚀 Building practical applications that solve real-world problems
+- 🌱 Learning Deep Learning, Docker, Cloud Computing, and LLMs
+- 💬 Ask me about **Python, React, JavaScript, Node.js, Express, and AI**
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 Resume Analyzer AI | ATS resume scoring & JD matching | Python, Flask, NLP |
-| 🖼 AI Background Remover | Remove image backgrounds using AI | Node, Express, JS |
-| 🌦 Weather Dashboard | AQI, Forecast, Maps | HTML, CSS, JS |
-| 📝 Text Analyzer | OCR and text utilities | React |
+| Project | Description | Stack |
+|:--|:--|:--|
+| 🤖 Resume Analyzer AI | ATS resume scoring & JD matching | Python • Flask • NLP |
+| 🖼️ AI Background Remover | AI-powered image background removal | Node.js • Express • JavaScript |
+| 🌦️ Weather Dashboard | Live weather, AQI & forecast | HTML • CSS • JavaScript |
+| 📝 Text Analyzer | OCR & smart text utilities | React • JavaScript |
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode,tensorflow,pytorch,opencv,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode,tensorflow,pytorch,opencv,html,css&perline=9"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Farhan-07-00&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Farhan-07-00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-07-00&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Farhan-07-00&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Farhan-07-00&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -59,49 +65,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Current Goals
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Farhan-07-00&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-> Enable GitHub Actions and create `.github/workflows/snake.yml`.
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Farhan-07-00
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ '${{ secrets.GITHUB_TOKEN }}' }}
-```
-
-Then use:
-
-```md
-<img src="https://raw.githubusercontent.com/Farhan-07-00/Farhan-07-00/output/snake-dark.svg"/>
-```
+- 🚀 Build high-quality AI & MERN projects
+- 📚 Strengthen Machine Learning & Deep Learning skills
+- ☁️ Learn Cloud deployment and DevOps
+- 🌍 Contribute to Open Source
+- 💼 Secure an AI / Software Engineering Internship
 
 ---
 
@@ -115,16 +85,10 @@ Then use:
 
 ---
 
-## 🎯 2026 Goals
+<div align="center">
 
-- Build 20+ AI Projects
-- Learn Deep Learning
-- Master MERN Stack
-- Contribute to Open Source
-- Secure an AI Internship
+> *"Keep Learning. Keep Building. Keep Improving."* 🚀
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364&height=120"/>
-</p>
+</div>
